@@ -1,0 +1,2 @@
+# Petlja-AnalizaPodatakaGim2
+AnalizaPodatakaGim2
